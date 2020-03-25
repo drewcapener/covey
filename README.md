@@ -3,8 +3,7 @@ Covey is a command line application that implements Stephen R. Covey's priority 
 
 ## Covey CLI
 
-### command one
-Description for command one.
+The entry point to the Covey CLI is the base command `covey`
 
-### command two
-Description for command two.
+### covey add
+Executing `covey add` initiates the process for adding a task to the matrix.
