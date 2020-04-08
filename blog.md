@@ -9,6 +9,11 @@ Throughout my life, writing has been a great mechanism for clarifying and solidi
 I am writing in the now empty second bedroom of my apartment near the campus of Brigham Young University in Provo, UT. My roommates who occupied this room have returned home to weather the COVID-19 storm with their families. Despite their leaving, I made the choice to stay here. The hope that I could maintain some sort of structure in my life was no small part of that decision. Despite my efforts, I regretfully report that all semblance of order is rapidly vanishing. This is where the idea for Covey comes in. I need a way to stay structured and productive.
 
 One of the most productive periods of my life was a couple of years ago when I was just starting college. One of my classes required us to read *The Seven Habits of Highly Effective People* by Stephen R. Covey. The book had a profound impact on the way I directed my life. In short, it made me more deliberate about setting priorities. One of Covey's teachings that resonated with me centered around a 2x2 matrix that separates out different categories of priorities.
+
 <div text-align="center" width=100%>
   <img src="./CoveyQuadrants.png" width="50%"/>
 </div>
+
+In the book, Covey describes how most people end up spending their time doing things that are Urgent and Not Important. These people, he posits, have a hard time making meaningful progress toward their goals. They spend most of their day distracted from meaningful tasks by things like random communication and perseverating over trivial decisions. Covey suggests that the most effective individuals are those who structure their lives such that they spend most of their time working on things that are not urgent but are important for achieving their goals.
+
+This brings me back to my first semester of college. I was determined to really move the needle during that time, and Covey's suggestions about time management helped me do it. I set aside two hours at the beginning of each day to focus on my goals. The first hour was dedicated to scripture reading and prayer. I spent the second hour teaching myself how to program. This consistent dedication of a focused amount of time steadily moved me closer to where I wanted to go, in spite of the inevitable distractions and unexpected demands on my time that came throughout my life. 
