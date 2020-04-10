@@ -10,8 +10,10 @@ I am writing in the now empty second bedroom of my apartment near the campus of 
 
 One of the most productive periods of my life was a couple of years ago when I was just starting college. One of my classes required us to read *The Seven Habits of Highly Effective People* by Stephen R. Covey. The book had a profound impact on the way I directed my life. In short, it made me more deliberate about setting priorities. One of Covey's teachings that resonated with me centered around a 2x2 matrix that separates out different categories of priorities.
 
-<div text-align="center" width=100%>
-  <img src="./CoveyQuadrants.png" width="50%"/>
+<div width=100%>
+  <p align="center">
+    <img src="./CoveyQuadrants.png" width="50%"/>
+  </p>
 </div>
 
 In the book, Covey describes how most people end up spending their time doing things that are Urgent and Not Important. These people, he posits, have a hard time making meaningful progress toward their goals. They spend most of their day distracted from meaningful tasks by things like random communication and perseverating over trivial decisions. Covey suggests that the most effective individuals are those who structure their lives such that they spend most of their time working on things that are not urgent but are important for achieving their goals.
