@@ -23,3 +23,13 @@ This brings me back to my first semester of college. I was determined to really 
 Those were simple days. The demands on my time that I face now are more varied and unpredictable. So, I can't always keep my schedule consistent. But, I do have plenty of unstructured moments that could be productive if I could quickly decide what to do with them. I want to be able to pick up my computer and have it tell me, instantly, what to do to make progress on my goals. While I expect that perfecting this tool will be an indirect process of iterative improvement via trial and error, my initial thought is to build a system that will help me sift my tasks into the four quadrants of the priority matrix and focus my time on those tasks that are most important. 
 
 ## How It Should Work
+
+## Architecture
+
+While I want to start writing code right away, I am trying to resist this urge in favor of doing some mindful planning. I have a few key priorities that I want to keep in mind as I work on this project.
+
+### Maintainability and Extensibility
+
+I have found that my failure to impose strong structure at the beginning of a project has always led to worse and worse code as a project goes on. As I add more features to the shoddy foundation, the project becomes brittle- hard to maintain and extend without breaking it. Given that I am not subject to any time constraints with this project, I want to make sure that I do things right with Covey. At each decision point, I want to make sure that I do the right thing instead of the fast thing. While there are reasons for building quick and dirty software, I have a few reasons for wanting to take the time and effort to build this tool right. Many of these reasons are selfish. For one, I am building this to make my life better, and if it ends up a buggy mess, it will probably just cause me more grief than it is worth. Also, I want this to be easy to maintain. I don't want the project to become so intractable that I start to dread working on it. More magnanimously, if I end up having collaborators on this project, I want it to be easy for them to work on. Also, I would feel bad if others ended up using this tool and found that it was poorly crafted. 
+
+### Tools
